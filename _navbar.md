@@ -10,7 +10,7 @@
    * [**在线JSON解析工具**](http://www.json.cn/)
 * python学习网站
    * [**python基础学习网站**](https://www.python.org)
-   *  [**PHP学习**](\new\README.md)
+   *  [**PHP学习**](/new/README.md)
 
 * 编程学习常用网站
     * [**bilibili**](https://www.bilibili.com/)
