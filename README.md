@@ -2,7 +2,7 @@
  * @Author: zpc 2827985512@qq.com
  * @Date: 2022-11-21 23:02:11
  * @LastEditors: zpc 2827985512@qq.com
- * @LastEditTime: 2023-01-29 22:13:41
+ * @LastEditTime: 2023-03-14 23:44:07
  * @FilePath: \repository\README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -107,9 +107,7 @@ axios.interceptors.request.use(config => {
 
 # python学习
   ## 1.python基础学习
+  > 学习基本语法和数据类型
   ## 2.python进阶学习
   ## 3.python蓝桥杯学习
   ## 4.python机器学习
-
-
-
