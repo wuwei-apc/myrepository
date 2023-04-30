@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <title>Document</title>
@@ -7,8 +8,10 @@
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <!-- <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/docsify/4.13.0/themes/vue.css"> -->
+  <link rel="stylesheet" href="./css/katex.min.css" />
   <link rel="stylesheet" href="./css/vue.css">
 </head>
+
 <body>
   <div id="app">Please wait...</div>
   <script>
@@ -20,14 +23,21 @@
       beian: {
         ICP: "滇ICP备2022003705号",
         NISMSP: {
-            number: "",
-            url: "",
+          number: "",
+          url: "",
         },
-    },
+        latex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']], // default
+          displayMath: [['$$', '$$']],               // default
+        }
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="./js/beian.min.js"></script>
   <script src="./js/docsify.min.js"></script>
+  <script src="./js/katex.min.js"></script>
+  <script src="./js/docsify-latex.js"></script>
 </body>
+
 </html>
