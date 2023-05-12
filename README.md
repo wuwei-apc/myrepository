@@ -1,30 +1,20 @@
-<!--
- * @Author: zpc 2827985512@qq.com
- * @Date: 2022-11-21 23:02:11
- * @LastEditors: zpc 2827985512@qq.com
- * @LastEditTime: 2023-03-15 00:15:16
- * @FilePath: \repository\README.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
-
-
 <!-- logo -->
 <p align="center">
     <img src="https://img2.baidu.com/it/u=2821710197,1569160826&fm=253&fmt=auto&app=138&f=PNG?w=600&h=421" />
 </p>
 
-#  Vue学习
-   
-  ## vue3cli axios配置
+# Vue学习
 
-  ### 一、npm 安装axios
-   
+## vue3cli axios配置
+
+### 一、npm 安装axios
+
 ```shell
 在vue3cli 项目更目录下的命令行中输入以下代码
 npm install axios
 ```
 
-  ### 二、在main.js中引入
+### 二、在main.js中引入
 
 ```js
 在main.js中写入一下代码
@@ -34,7 +24,7 @@ axios.defaults.baseURL='接口的http前缀'
 Vue.prototype.$axios = axios
 ```
 
-  ### 三、配置跨域
+### 三、配置跨域
 
 ```js
 在vue.config.js中输入以下代码
@@ -67,7 +57,7 @@ module.exports = {
         changeOrigin: true,
         pathRewrite:{
           '^/api':''
-      	}
+       }
       }
     },
   }
@@ -87,7 +77,7 @@ module.exports = {
   }
 ```
 
-   ### 四、统一配置token
+### 四、统一配置token
 
 ```js
 在main.js 中加入以下代码
@@ -104,12 +94,17 @@ axios.interceptors.request.use(config => {
 })
 ```
 
-
 # python学习
-  ## 1.python基础学习
-  ### * 学习基本语法和数据类型
-  ### * 学习基本语法和数据类型
-  ### * 学习基本语法和数据类型
-  ## 2.python进阶学习
-  ## 3.python蓝桥杯学习
-  ## 4.python机器学习
+
+## 1.python基础学习
+
+### *学习基本语法和数据类型
+###* 学习基本语法和数据类型
+
+### * 学习基本语法和数据类型
+
+## 2.python进阶学习
+
+## 3.python蓝桥杯学习
+
+## 4.python机器学习
