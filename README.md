@@ -97,6 +97,8 @@ axios.interceptors.request.use(config => {
 # python学习
 
 ## 1.python基础学习
+> pip requriments.txt
+> 1.下载相关包命令 ```pip install -r requriments.txt```
 
 ### *学习基本语法和数据类型
 ###* 学习基本语法和数据类型
