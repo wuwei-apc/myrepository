@@ -112,9 +112,6 @@ plt.show()
     
 ![png](./img/output_9_0.png)
     
-
-
-
 ```python
 
 ```
