@@ -110,5 +110,6 @@ axios.interceptors.request.use(config => {
 > this is a 2.5 python study
 
 ## 3.python蓝桥杯学习
+> 学习
 
 ## 4.python机器学习
