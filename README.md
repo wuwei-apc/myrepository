@@ -106,6 +106,7 @@ axios.interceptors.request.use(config => {
 ### * 学习基本语法和数据类型
 
 ## 2.python进阶学习
+> this is a 2.3 python study
 
 ## 3.python蓝桥杯学习
 
