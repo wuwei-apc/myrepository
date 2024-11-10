@@ -122,7 +122,7 @@
 
 ###### 2.结果 
 
-    ![删除变量](C:\Users\zpc20\Desktop\markdown\php\picture\删除变量.png)
+    ![](picture\变量卸载.png)
 
 ##### 3.预定义变量
 
@@ -251,7 +251,7 @@
 
 结果：
 
-![](picture\屏幕截图 2023-02-25 225810.png)
+![](picture\强制类型转换.png)
 
 #### 五、类型判断
 

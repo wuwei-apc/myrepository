@@ -11,8 +11,8 @@
    * [**在线JSON解析工具**](http://www.json.cn/)
 * python学习网站
    * [**python基础学习网站**](https://www.python.org)
-   *  [**PHP学习**](php/README.md)
-   *  [**Python学习**](python/README)
+   * [**PHP学习**](php/README.md)
+   * [**Python学习**](python/README.md) 
 * 其他IT知识
     * [**docker学习**](docker/READEME.md)
     * [**hadoop学习**](hadoop/READEME.md)
