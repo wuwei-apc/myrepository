@@ -1,12 +1,3 @@
-<!--
- * @Author: zpc 2827985512@qq.com
- * @Date: 2023-06-04 22:41:18
- * @LastEditors: zpc 2827985512@qq.com
- * @LastEditTime: 2023-06-04 23:01:43
- * @FilePath: \repository\docker\READEME.md
- * @Description: 这是学习docker的笔记
--->
-
 ## docker学习
 > 概述：docker是一个开源的应用容器引擎，基于go语言并遵从Apache2.0协议开源。docker可以让开发者打包他们的应用以及依赖包到一个可移植的容器中，然后发布到任何流行的Linux机器上，也可以实现虚拟化。容器是完全使用沙箱机制，相互之间不会有任何接口。
 > ## 预备
